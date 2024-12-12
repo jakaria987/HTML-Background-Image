@@ -1,0 +1,27 @@
+.back_image {
+  width: 800px;
+  height: 500px;
+  background-image: url("back_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+}
+.box {
+  margin-top: 30px;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
+.btn {
+  padding: 10px;
+  font-size: larger;
+  font-weight: 400;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+}
